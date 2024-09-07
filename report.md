@@ -1,8 +1,7 @@
 #Module 1 Codexes Claims Analysis#
 
-1. Create a GitHub repository
-2. Load the data
-3. Analyze Medical Codex Data
-4. Additional analysis
-5. Documenting work
-6. Submission
+## 1. Steps taken
+## 2. Purpose of each part of code
+## 3. Key findings from analysis
+## 4. Any challenges
+## 5. Reflection on findings
