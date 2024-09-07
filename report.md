@@ -20,4 +20,4 @@ In addition, particular ICD diagnosis codes were further analyzed with the websi
 
 Challenges that I encountered include the difficulty and precision required to handle these large data sets. It is very easy to make an error in the line of code which can lead to incorrect outputs.
 
-The implications of my findings for healthcare providers and policy makers can assist in multipe facets of healthcare. Frequency of certain diagnoses (ICD codes) can lead  healthcare providers and policymakers to make adjustments to their community based care models. Therefore, policy makers and other stakeholders can more effectively allocate funds, support, and resources to the areas and patient populations requiring the most assistance.
+The implications of my findings for healthcare providers and policy makers can assist in multiple facets of healthcare. Frequency of certain diagnoses (ICD codes) can lead healthcare providers and policymakers to make adjustments to their community based care models. Therefore, policy makers and other stakeholders can more effectively allocate funds, support, and resources to the areas and patient populations requiring the most assistance.
